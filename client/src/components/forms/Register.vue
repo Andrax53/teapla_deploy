@@ -134,15 +134,15 @@
                                         <input type="radio" class="radio" name="bank-1" id="bank-1" value="bank-1"
                                                checked="">
                                         <label class="bank-images label-above bank-1-label" for="bank-1">
-                                            <img src="images/form-v1-1.png" alt="bank-1">
+
                                         </label>
                                         <input type="radio" class="radio" name="bank-2" id="bank-2" value="bank-2">
                                         <label class="bank-images label-above bank-2-label" for="bank-2">
-                                            <img src="images/form-v1-2.png" alt="bank-2">
+
                                         </label>
                                         <input type="radio" class="radio" name="bank-3" id="bank-3" value="bank-3">
                                         <label class="bank-images label-above bank-3-label" for="bank-3">
-                                            <img src="images/form-v1-3.png" alt="bank-3">
+
                                         </label>
                                     </div>
                                 </div>
@@ -150,15 +150,15 @@
                                     <div class="form-holder form-holder-2 form-holder-3">
                                         <input type="radio" class="radio" name="bank-4" id="bank-4" value="bank-4">
                                         <label class="bank-images bank-4-label" for="bank-4">
-                                            <img src="images/form-v1-4.png" alt="bank-4">
+
                                         </label>
                                         <input type="radio" class="radio" name="bank-5" id="bank-5" value="bank-5">
                                         <label class="bank-images bank-5-label" for="bank-5">
-                                            <img src="images/form-v1-5.png" alt="bank-5">
+
                                         </label>
                                         <input type="radio" class="radio" name="bank-6" id="bank-6" value="bank-6">
                                         <label class="bank-images bank-6-label" for="bank-6">
-                                            <img src="images/form-v1-6.png" alt="bank-6">
+
                                         </label>
                                     </div>
                                 </div>
@@ -180,7 +180,7 @@
                                 <div class="form-holder form-holder-2">
                                     <input type="radio" class="radio" name="radio1" id="plan-1" value="plan-1">
                                     <label class="plan-icon plan-1-label" for="plan-1">
-                                        <img src="images/form-v1-icon-2.png" alt="pay-1">
+
                                     </label>
                                     <div class="plan-total">
                                         <span class="plan-title">Школьный уровень</span>
@@ -188,7 +188,7 @@
                                     </div>
                                     <input type="radio" class="radio" name="radio1" id="plan-2" value="plan-2">
                                     <label class="plan-icon plan-2-label" for="plan-2">
-                                        <img src="images/form-v1-icon-2.png" alt="pay-1">
+
                                     </label>
                                     <div class="plan-total">
                                         <span class="plan-title">Продвинутый уровень</span>
@@ -197,7 +197,7 @@
                                     <input type="radio" class="radio" name="radio1" id="plan-3" value="plan-3"
                                            checked="">
                                     <label class="plan-icon plan-3-label" for="plan-3">
-                                        <img src="images/form-v1-icon-3.png" alt="pay-2">
+
                                     </label>
                                     <div class="plan-total">
                                         <span class="plan-title">Экспертный уровень</span>
